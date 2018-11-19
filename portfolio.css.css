@@ -1,0 +1,13 @@
+.card-bg-dark-text-white{ 
+    background-image: url("porrtfolio-feminin.jpg");
+    font-family: 'Acme', sans-serif;
+    height: 100%;
+    width:100%;
+    background-size: cover;
+    color:white;
+    } 
+.img-fluid{
+   height: auto;
+
+
+}
